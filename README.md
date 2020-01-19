@@ -6,7 +6,7 @@ See [flutter.dev/clock](https://flutter.dev/clock) to read more about the contes
 
 <img src='screenshot.png' width='350'>
 
-[Video:](https://youtu.be/QUarBECvlJo)
+[Video: https://youtu.be/__NSq-X4e0w](https://youtu.be/__NSq-X4e0w)
 
 Tokens: Merlin and Klaudia Jentsch
 
