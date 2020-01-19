@@ -9,6 +9,10 @@ See [flutter.dev/clock](https://flutter.dev/clock) to read more about the contes
 [Video:](https://youtu.be/QUarBECvlJo)
 
 Tokens: Merlin and Klaudia Jentsch
+
 Colors: Merlin and Klaudia Jentsch
+
 Animation: Michael Jentsch
+
 Development: Michael Jentsch
+
