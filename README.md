@@ -1,15 +1,14 @@
-# Flutter Clock
+# Flutter Clock - Tetris Time
 
-Welcome to Flutter Clock!
+My contribution to the Flutter Clock challenge in 2020.
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+See [flutter.dev/clock](https://flutter.dev/clock) to read more about the contest.
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+<img src='screenshot.png' width='350'>
 
-Example [Analog Clock](analog_clock)
+[Video:](https://youtu.be/QUarBECvlJo)
 
-<img src='analog_clock/analog.gif' width='350'>
-
-Example [Digital Clock](digital_clock)
-
-<img src='digital_clock/digital.gif' width='350'>
+Tokens: Merlin and Klaudia Jentsch
+Colors: Merlin and Klaudia Jentsch
+Animation: Michael Jentsch
+Development: Michael Jentsch
